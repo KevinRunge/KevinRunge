@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinRunge
-- 👀 I’m interested in programming, game development, physics simulations, naval architecture and mechanical engineering.
-- 🌱 I’m currently learning networking code in C/C++
+- 👀 I’m interested in programming, physics simulations, naval architecture, mechanical engineering and game programming.
+- 🌱 I’m currently learning the Vulkan API
 - 💞️ I’m looking to collaborate on games and simulation projects
 - 📫 How to reach me...
 
